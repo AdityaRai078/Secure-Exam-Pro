@@ -1,0 +1,7 @@
+{
+  "name": "Secure Exam Pro",
+  "description": "A secure online examination system with anti-cheat features, auto-evaluation, and email reporting.",
+  "requestFramePermissions": [
+    "fullscreen"
+  ]
+}
